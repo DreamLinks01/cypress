@@ -1,0 +1,57 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Logout feature",
+    "line": 1,
+    "id": "logout-feature",
+    "tags": [],
+    "uri": "Logout.feature",
+    "elements": [
+      {
+        "id": "logout-feature;logout-scenario",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Logout scenario",
+        "tags": [
+          {
+            "name": "@focus",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 36638000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "user logsout from Application",
+            "result": {
+              "status": "passed",
+              "duration": 3494000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "verify Logout is successful",
+            "result": {
+              "status": "passed",
+              "duration": 93000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

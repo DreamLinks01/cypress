@@ -1,0 +1,232 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "pick and pack search with email Functionality",
+    "line": 1,
+    "id": "pick-and-pack-search-with-email-functionality",
+    "tags": [],
+    "uri": "Pickandpacksearch.feature",
+    "elements": [
+      {
+        "id": "pick-and-pack-search-with-email-functionality;pick-and-pack-search-with-email",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "pick and pack search with email",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 35498000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2392000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2572000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Click on pick and pack",
+            "result": {
+              "status": "passed",
+              "duration": 2516000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Enter Email value in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 1722000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2380000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "pick-and-pack-search-with-email-functionality;pick-and-pack-search-with-email-substring",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "pick and pack search with email substring",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 35551000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2388000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2592000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "Click on pick and pack",
+            "result": {
+              "status": "passed",
+              "duration": 2518000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Enter Email substring value in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 1172000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2448000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "pick-and-pack-search-with-email-functionality;pick-and-pack-search-with-email-click-cross",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "pick and pack search with email click cross",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 20,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 35570000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2385000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2644000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Click on pick and pack",
+            "result": {
+              "status": "passed",
+              "duration": 2546000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Enter Email substring value in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 1686000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2352000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 26,
+            "name": "Click on Clear button in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 324000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

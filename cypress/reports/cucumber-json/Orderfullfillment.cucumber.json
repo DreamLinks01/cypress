@@ -1,0 +1,137 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "OrderFullfillment page  feature",
+    "line": 1,
+    "id": "orderfullfillment-page--feature",
+    "tags": [],
+    "uri": "Orderfullfillment.feature",
+    "elements": [
+      {
+        "id": "orderfullfillment-page--feature;verify-clear-button(cross-mark)-functionality-in-search-box-in-inventory-tab",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Verify Clear button(cross mark) functionality in Search box in Inventory tab",
+        "tags": [
+          {
+            "name": "@focus",
+            "line": 18
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 39209000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "verify login is successful",
+            "result": {
+              "status": "passed",
+              "duration": 198000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2365000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2717000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "user click on Incoming Stock",
+            "result": {
+              "status": "passed",
+              "duration": 468000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "user click on inventory",
+            "result": {
+              "status": "passed",
+              "duration": 5494000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "enter value in SKU search",
+            "result": {
+              "status": "passed",
+              "duration": 3663000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2402000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Click on Clear button in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 392000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "user logsout from Application",
+            "result": {
+              "status": "passed",
+              "duration": 3975000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "verify Logout is successful",
+            "result": {
+              "status": "passed",
+              "duration": 119000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

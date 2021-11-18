@@ -1,0 +1,112 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Skurecord page  feature",
+    "line": 1,
+    "id": "skurecord-page--feature",
+    "tags": [],
+    "uri": "Skurecord.feature",
+    "elements": [
+      {
+        "id": "skurecord-page--feature;skurecord-scenario",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Skurecord scenario",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 52881000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "verify login is successful",
+            "result": {
+              "status": "passed",
+              "duration": 101000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2240000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2460000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "user click on inventory",
+            "result": {
+              "status": "passed",
+              "duration": 5385000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "enter value in SKU search",
+            "result": {
+              "status": "passed",
+              "duration": 3565000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2271000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "user click on Displayed Value",
+            "result": {
+              "status": "passed",
+              "duration": 416000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "verify the entered value is displayed",
+            "result": {
+              "status": "passed",
+              "duration": 963000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

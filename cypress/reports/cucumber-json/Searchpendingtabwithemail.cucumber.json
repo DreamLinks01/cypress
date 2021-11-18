@@ -1,0 +1,232 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "pending tab search with email Functionality",
+    "line": 1,
+    "id": "pending-tab-search-with-email-functionality",
+    "tags": [],
+    "uri": "Searchpendingtabwithemail.feature",
+    "elements": [
+      {
+        "id": "pending-tab-search-with-email-functionality;pending-tab-search-with-email",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "pending tab search with email",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 40647000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2403000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2837000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Click on Pending Tab",
+            "result": {
+              "status": "passed",
+              "duration": 2579000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Enter Email value in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 2393000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2463000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "pending-tab-search-with-email-functionality;pending-tab-search-with-email-substring",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "pending tab search with email substring",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 38129000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2376000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2864000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "Click on Pending Tab",
+            "result": {
+              "status": "passed",
+              "duration": 2553000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Enter Email substring value in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 1471000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2454000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "pending-tab-search-with-email-functionality;pending-tab-search-with-email-click-cross",
+        "keyword": "Scenario",
+        "line": 20,
+        "name": "pending tab search with email click cross",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 21,
+            "name": "user login to Application",
+            "result": {
+              "status": "passed",
+              "duration": 35829000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "User  clicks on homedropdown which is present on top left",
+            "result": {
+              "status": "passed",
+              "duration": 2388000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "user selects OrderFullfillment from dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2727000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Click on Pending Tab",
+            "result": {
+              "status": "passed",
+              "duration": 2565000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "Enter Email substring value in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 1816000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 26,
+            "name": "click on search",
+            "result": {
+              "status": "passed",
+              "duration": 2563000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "Click on Clear button in Search box",
+            "result": {
+              "status": "passed",
+              "duration": 376000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
